@@ -206,7 +206,7 @@ hr {
 
 #times div {
     color: #fafafa;
-    background-color: rgb(0, 0, 0, .7);
+    background-color: rgb(0, 0, 0, .5);
     width: 20%;
     height: 300px;
     float: left;
@@ -368,7 +368,7 @@ footer {
 .signup-form {
     margin: 150px 10% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.8);
     max-width: 400px;
     position: absolute;
     left: 10%;
