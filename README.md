@@ -93,5 +93,21 @@ Hat3rick is a Summer Football Camp for Kids between the age of 7 and 12; who are
 <img width="960" alt="Screenshot 2023-05-20 great" src="https://github.com/caleb1711/hat3rick5/assets/130179631/7e647f0c-251e-4d61-bb2f-749c5f28a0e7">
 
 
+## Deployment
+###### The Site was deployed on GitHub Pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the Source drop-down menu, select the Master Branch
+- Once the Master Branch has been selected, the page provided the link to the completed website
+
+## Credits
+#### Contents
+- The Code used for the Social Media and the Sign up form was taken from the CI Love Running Project
+- The fonts used was taken from Fontawsome
+
+## Media
+
+- The images were taken from Google
+
+
 
 
