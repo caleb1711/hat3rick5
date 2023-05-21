@@ -102,7 +102,8 @@ Hat3rick is a Summer Football Camp for Kids between the age of 7 and 12; who are
 ## Credits
 #### Contents
 - The Code used for the Social Media and the Sign up form was taken from the CI Love Running Project
-- The fonts used was taken from Fontawsome
+- The fonts used was taken from Fontawesome
+- The CI Love Running Project greatly inspired me in the creation of my Project
 
 ## Media
 
